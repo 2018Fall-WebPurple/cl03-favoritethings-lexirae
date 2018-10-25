@@ -1,0 +1,24 @@
+/*
+*Lexi Hall
+*10/19/18
+*Images Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+
+} 
+img {width: 300px; height: 200px;}
+#GR {width: 300px; height: 200px; float: right;}
+#next_para{clear: left;}
+#Puppies {width: 300px; height: 200px; float: right;}
+#next_para {clear: left;}
+#GD {width: 300px; height: 200px; float: right;}
+#next_para {clear: left;}
